@@ -16,4 +16,12 @@ if(age>=18){
     console.log('can play')
 }else{
     console.log('can not play')
-}ssh-keygen -t ed25519 -C "akshaykshirsagar47@gmail.com"
+}
+let num3 =20
+
+if(num2%2===0){
+console.log('even')
+}else{
+  console.log('odd')
+}
+
